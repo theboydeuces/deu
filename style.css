@@ -1,0 +1,10 @@
+/* *{
+    background-color: yellow;
+} */
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav p{
+    color: blue;
+}
